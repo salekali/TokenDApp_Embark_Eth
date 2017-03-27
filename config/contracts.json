@@ -1,0 +1,13 @@
+{
+  "default": {
+    "gas": "auto",
+    "contracts": {
+      "Token": {
+        "deploy": false,
+        "args": [
+          1000
+        ]
+      }
+    }
+  }
+}
